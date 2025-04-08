@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi there!
 
-<!--
-**lio-tam/lio-tam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Chi Fung Lio Tam**, a Computer Engineering student at RWTH Aachen University in Germany 🇩🇪  
+Previously trained in medicine (pre-clinical stage), I’ve developed a strong passion for **embedded systems**, **human-centered technology**, and **digital health innovation**.
 
-Here are some ideas to get you started:
+I enjoy building things that connect the physical and digital world – especially where low-level programming meets meaningful user interaction.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tools
+
+- **Languages:** C, C++, Python (basic Assembler)
+- **Tools:** STM32CubeIDE, modm, KiCad, Logic Analyzer, CoolTerm
+- **Systems:** Linux, Windows
+- **Soft Skills:** Teaching (Tutor), Team Collaboration, Project Planning (Gantt)
+
+---
+
+## 🚀 Projects
+
+### 🔭 [Satellite Tracker – STM32 & Python](https://github.com/YOUR-LINK-HERE)
+- Calculates azimuth & elevation from geo coordinates
+- API integration with Python; signal control in STM32 C
+- Debugged with CoolTerm & Logic Analyzer
+
+### 🤖 [Autonomous Robot – Custom PCB & Embedded C](https://github.com/YOUR-LINK-HERE)
+- PCB design using KiCad, hand-assembled with SMD
+- Programmed in C using modm; pin testing & configuration
+- Built in a team with project timeline using Gantt
+
+---
+
+## 📚 Currently Exploring
+
+- Git & GitHub workflows (branches, issues, actions)
+- UX Design & Figma
+- TinyML – AI for embedded systems
+
+---
+
+## 💡 Interests
+
+🎨 Digital drawing | 🧠 MedTech Innovation | 🤖 Embedded UX  
+🏀 Basketball | 🏊 Swimming
+
+---
+
+## 📫 Contact
+
+- 📧 Email: **liosac17@gmail.com**  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/lio-tam)  
+- 🌍 [My Projects](https://github.com/lio-tam)
+
+---
+
+✨ Thanks for stopping by!
