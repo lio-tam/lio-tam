@@ -18,12 +18,12 @@ I enjoy building things that connect the physical and digital world – especial
 
 ## 🚀 Projects
 
-### 🔭 [Satellite Tracker – STM32 & Python](https://github.com/YOUR-LINK-HERE)
+### 🔭 [Satellite Tracker – STM32 & Python](https://github.com/Satellite-Tracker-STM32)
 - Calculates azimuth & elevation from geo coordinates
 - API integration with Python; signal control in STM32 C
 - Debugged with CoolTerm & Logic Analyzer
 
-### 🤖 [Autonomous Robot – Custom PCB & Embedded C](https://github.com/YOUR-LINK-HERE)
+### 🤖 [Autonomous Robot – Custom PCB & Embedded C](https://github.com/Autonomous-SIMA-Robot)
 - PCB design using KiCad, hand-assembled with SMD
 - Programmed in C using modm; pin testing & configuration
 - Built in a team with project timeline using Gantt
