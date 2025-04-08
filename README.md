@@ -9,9 +9,9 @@ I enjoy building things that connect the physical and digital world – especial
 
 ## 🛠️ Skills & Tools
 
-- **Languages:** C, C++, Python (basic Assembler)
+- **Languages:** C/C++, Python, Assembler (x86), HTML/CSS
 - **Tools:** STM32CubeIDE, modm, KiCad, Logic Analyzer, CoolTerm
-- **Systems:** Linux, Windows
+- **Systems:** Linux, Windows, macOS
 - **Soft Skills:** Teaching (Tutor), Team Collaboration, Project Planning (Gantt)
 
 ---
