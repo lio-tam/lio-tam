@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I'm **Chi Fung Lio Tam**, a Computer Engineering student at RWTH Aachen University in Germany 🇩🇪  
+I'm **Lio Tam**, a Computer Engineering student at RWTH Aachen University in Germany 🇩🇪  
 Previously trained in medicine (pre-clinical stage), I’ve developed a strong passion for **embedded systems**, **human-centered technology**, and **digital health innovation**.
 
 I enjoy building things that connect the physical and digital world – especially where low-level programming meets meaningful user interaction.
