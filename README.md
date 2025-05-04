@@ -9,9 +9,9 @@ I enjoy building things that connect the physical and digital world – especial
 
 ## 🛠️ Skills & Tools
 
-- **Languages:** C/C++, Python, Assembler (x86), HTML/CSS
-- **Tools:** STM32CubeIDE, modm, KiCad, Logic Analyzer, CoolTerm
-- **Systems:** Linux, Windows, macOS
+- **Languages:** C/C++, Python, Basics of Assembler (x86), HTML/CSS, ReactJS
+- **Tools:** STM32CubeIDE, modm, KiCad, MATLAB
+- **Systems:** macOS, Linux, Windows
 - **Soft Skills:** Teaching (Tutor), Team Collaboration, Project Planning (Gantt)
 
 ---
@@ -33,15 +33,14 @@ I enjoy building things that connect the physical and digital world – especial
 ## 📚 Currently Exploring
 
 - Git & GitHub workflows (branches, issues, actions)
-- UX Design & Figma
-- TinyML – AI for embedded systems
+- Full Stack Tools (React.js, Node.js, MongoDB, REST, GraphQL, Jest)
 
 ---
 
 ## 💡 Interests
 
-🎨 Digital drawing | 🧠 MedTech Innovation | 🤖 Embedded UX  
-🏀 Basketball | 🏊 Swimming
+🎨 Drawing | 🧠 MedTech Innovation | 🤖 Embedded Robotics  
+🏐 Volleyball | 🏊 Swimming
 
 ---
 
@@ -49,8 +48,3 @@ I enjoy building things that connect the physical and digital world – especial
 
 - 📧 Email: **liosac17@gmail.com**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lio-tam)  
-- 🌍 [My Projects](https://github.com/lio-tam)
-
----
-
-✨ Thanks for stopping by!
