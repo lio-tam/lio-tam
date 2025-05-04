@@ -2,7 +2,7 @@
 
 I'm **Lio Tam**, a Computer Engineering student at RWTH Aachen University in Germany 🇩🇪  
 
-Previously trained in medicine (pre-clinical stage), I have a strong passion for human medicine andhealth science, and I’ve later developed a strong interest in **using digital solutions for human medicine**.
+Previously trained in medicine (pre-clinical stage), I have a great passion for human medicine and health science, and I’ve later developed a strong interest in **using computer-aided solutions for human medicine** and pivoted to becoming an engineer.
 
 I enjoy building things that connect the physical and digital world – especially where low-level programming meets meaningful user interaction.
 
