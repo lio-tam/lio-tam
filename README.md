@@ -1,7 +1,5 @@
 # Lio Tam
 
-I'm a Computer Engineering student at RWTH Aachen and will finish my bachelor's in spring 2027. Before that I studied medicine for two years at Queen's University Belfast. My thesis is where the two meet; most of my other projects are embedded systems.
-
 ### Projects
 
 - **[Satellite-Tracker-STM32](https://github.com/lio-tam/Satellite-Tracker-STM32)**: a two-axis mount that follows the ISS in real time. My part was the coordinate conversion in C (WGS-84 → local East-North-Up → azimuth/elevation).
