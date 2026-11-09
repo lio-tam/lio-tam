@@ -7,8 +7,6 @@
 - **[hackathon](https://github.com/lio-tam/hackathon)**: PID controller for a self-balancing robot from the Infineon challenge at EESTEC 2025 (Arduino, C++).
 - **[Full-Stack-Open-2023](https://github.com/lio-tam/Full-Stack-Open-2023)**: my exercises from the University of Helsinki's Full Stack Open course, parts 0 to 3 (React, Node.js, MongoDB).
 
-My bachelor's thesis isn't public because it uses clinical data. I compared Gaussian processes and quantile regression forests with autoregressive models for forecasting the insulin sensitivity of ICU patients, in MATLAB and Python.
-
 ### What I work with
 
 C, C++, Python, MATLAB · STM32 (HAL, modm), Arduino · KiCad · Git
@@ -16,5 +14,3 @@ C, C++, Python, MATLAB · STM32 (HAL, modm), Arduino · KiCad · Git
 ### Contact
 
 [LinkedIn](https://www.linkedin.com/in/lio-tam) · liosac17@gmail.com
-
-Outside uni I play volleyball, swim and draw.
