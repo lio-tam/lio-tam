@@ -4,7 +4,6 @@
 
 - **[Satellite-Tracker-STM32](https://github.com/lio-tam/Satellite-Tracker-STM32)**: a two-axis mount that follows the ISS in real time. My part was the coordinate conversion in C (WGS-84 → local East-North-Up → azimuth/elevation).
 - **[Autonomous-SIMA-Robot](https://github.com/lio-tam/Autonomous-SIMA-Robot)**: motor-driver PCB in KiCad and STM32 bring-up firmware in C++ (modm) for a Eurobot robot at the Roboter Club Aachen.
-- **[hackathon](https://github.com/lio-tam/hackathon)**: PID controller for a self-balancing robot from the Infineon challenge at EESTEC 2025 (Arduino, C++).
 
 ### What I work with
 
