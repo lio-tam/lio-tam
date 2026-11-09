@@ -13,4 +13,4 @@ C, C++, Python, MATLAB · STM32 (HAL, modm), Arduino · KiCad · Git
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/lio-tam) · liosac17@gmail.com
+[LinkedIn](https://www.linkedin.com/in/lio-tam)
